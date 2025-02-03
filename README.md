@@ -1,1 +1,1 @@
-<strong style="font-size: larger;">Cogito ergo sum</strong>
+<p style="font-size: 20em;">Cogito ergo sum</p>
